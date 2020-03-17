@@ -1,4 +1,4 @@
-# _My Favorite Things_
+# _Resort_
 
 #### _Week One Epicodus HTML & CSS Practice, 03.17.2020_
 
@@ -6,20 +6,27 @@
 
 ## Description
 
-A fun engaging webpage about favorite things. 
+A fun engaging webpage
+
+## Specs
+
+* gh-pages
+* 
 
 ## Setup/Installation Requirements
 
-Clone my github repository from your computer's Terminal (make sure you are on your Desktop)
+First, clone our github repository from your computer's Terminal (make sure you are on your Desktop)
 
 * cd desktop
-* git clone https://github.com/christinereina/epicodus-favoritethings
+* git clone https://github.com/assassin56/week1-resort
 
-Open folder and drag favorite-things.html file into your preferred web browser
+Next, open folder week1-resort and drag the index.html file into your preferred web browser
+
+Lastly, enjoy our website! 
 
 ## Known Bugs
 
-No known issues as of 3/17/2020
+N/A
 
 ## Support and contact details
 
