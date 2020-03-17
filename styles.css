@@ -1,0 +1,30 @@
+h1 {
+  font-family: 'Fredoka One';
+  font-style: italic;
+  text-align: center;
+  padding: 5px;
+}
+
+h5 {
+  font-family: 'Fredoka One';
+  text-align: center;
+ 
+}
+
+h4 {
+  text-align: center;
+}
+
+body, html {
+    height: 100%;
+    font-family: 'Fredoka One';
+    padding: 2px;
+}
+
+img {
+    background-image: url("https://www.maxim.com/.image/c_limit%2Ccs_srgb%2Cq_auto:good%2Cw_1240/MTU4MTIyMDgxOTg3MzM5ODk4/n103tf0g.webp");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
