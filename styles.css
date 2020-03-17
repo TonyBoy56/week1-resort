@@ -1,4 +1,4 @@
-h1 {
+h1,h2 {
   font-family: 'Fredoka One';
   font-style: italic;
   text-align: center;
@@ -32,4 +32,14 @@ img {
 
 .navbar-brand {
   font-size: 200%;
+}
+
+.background {
+  background-image: url(https://images.ctfassets.net/hbmwn5pbkdff/4KVSaIwf1xBFQrYaRiQebU/3780b1fe4644d17a87263ebbb00a3a77/SUSTAINABILITY_IMAGE_BLOCK_4.jpg?w=1000);
+  height: 100%;
+  width: auto;
+}
+
+span {
+  color: white;
 }
